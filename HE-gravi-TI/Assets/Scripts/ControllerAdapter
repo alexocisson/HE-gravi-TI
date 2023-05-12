@@ -1,0 +1,5 @@
+﻿using System;
+public interface ControllerAdapter
+{
+    public Vector2 getPosition();
+}
